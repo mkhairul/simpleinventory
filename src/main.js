@@ -6,6 +6,8 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+require('../node_modules/materialize-css/dist/js/materialize.js')
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

@@ -12,6 +12,7 @@ export default {
 </script>
 
 <style>
+@import '../node_modules/materialize-css/dist/css/materialize.css';
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
