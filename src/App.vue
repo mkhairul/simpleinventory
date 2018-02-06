@@ -13,6 +13,8 @@ export default {
 
 <style>
 @import '../node_modules/materialize-css/dist/css/materialize.css';
+@import 'style.css';
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

@@ -3,8 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import VuejsDialog from 'vuejs-dialog'
 
 Vue.config.productionTip = false
+Vue.use(VuejsDialog)
 
 require('../node_modules/materialize-css/dist/js/materialize.js')
 
